@@ -1,8 +1,8 @@
-# Shoduino Line Follower 🏁🏎💨
+# Shomay Line Follower 🏁🏎💨
 
 ## Library Installation 📚
 
-Installing the ***Shoduino Line Follower*** library is a straightforward process, but getting the folders in the right spot is key for the Arduino IDE to recognize the custom hardware.
+Installing the ***Shomay Line Follower*** library is a straightforward process, but getting the folders in the right spot is key for the Arduino IDE to recognize the custom hardware.
 
 ### Prerequisites 💻
 Before starting, ensure you have the Arduino IDE installed. If you don't have it yet, you can find the latest version at https://www.arduino.cc/en/software/
@@ -19,18 +19,18 @@ Before starting, ensure you have the Arduino IDE installed. If you don't have it
    
 3. **Open the Extracted Folder**
 
-   Open the newly extracted folder `project_shoduino-main`. Inside, you will see a folder named `project_shoduino`
+   Open the newly extracted folder `project_shomay-main`. Inside, you will see a folder named `project_shomay`
 
-4. **Move the project_shoduino folder**
+4. **Move the project_shomay folder**
 
-   Take that `project_shoduino` folder and move it to `Documents → Arduino → libraries → *here*`
+   Take that `project_shomay` folder and move it to `Documents → Arduino → libraries → *here*`
 
-5. **Move the inner project_shoduino folder**
+5. **Move the inner project_shomay folder**
 
-   After moving, open the `project_shoduino` folder. Inside, you will see another folder named `project_shoduino`. Take that folder and move it to `Documents → Arduino → *here*`
+   After moving, open the `project_shomay` folder. Inside, you will see another folder named `project_shomay`. Take that folder and move it to `Documents → Arduino → *here*`
 
 6. **Verify Installation**
 
    Close any open instances of the Arduino IDE and relaunch it. You can verify a successful installation by checking two places on your Arduino IDE:
-   - **The Sketchbook:** Go to your ***SKETCHBOOK*** menu, you should be able to see `project_shoduino` file.
-   - **The Examples:** Go to `File → Examples → project_shoduino`, and you will see the built-in library examples.
+   - **The Sketchbook:** Go to your ***SKETCHBOOK*** menu, you should be able to see `project_shomay` file.
+   - **The Examples:** Go to `File → Examples → project_shomay`, and you will see the built-in library examples.
