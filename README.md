@@ -11,7 +11,7 @@ Before starting, ensure you have the Arduino IDE installed. If you don't have it
 
 1. **Download the Repository**
 
-   Visit . Click the green ***Code*** button and select ***Download ZIP***.
+   Visit https://github.com/Uus3r199/project_shomay. Click the green ***Code*** button and select ***Download ZIP***.
 
 2. **Extract the File**
 
